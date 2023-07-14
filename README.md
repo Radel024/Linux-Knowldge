@@ -1,6 +1,4 @@
 # Linux-Knowldge
-Base commands and structure of Linux 
-# IT-Fundementals-
 
 <h2>Description</h2>
 The present project covers the essentials of the Linux operating system, delivered in a virtualized context. The project entails a series of tasks, ranging from navigating the Linux file system, scripting with the shell, 
