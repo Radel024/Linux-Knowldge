@@ -7,17 +7,13 @@ The present project covers the essentials of the Linux operating system, deliver
 administering users and groups, comprehending IP configurations, to monitoring system performance. The project aims to establish the fundamental groundwork for comprehending advanced technologies, such as Virtualization and Cloud Computing.
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>Unix Shell</b> 
 
-
 <h2>Environments Used </h2>
-- <b>Infoseclearning.com(VM Lab)</b>b>
-- <b></b>Unbuntu</b>
-
-
+- <b>Infoseclearning.com (VM Lab)</br>
+- <b>Unbuntu</br>
 
 <h2>Program walk-through:</h2>
 
@@ -25,15 +21,11 @@ administering users and groups, comprehending IP configurations, to monitoring s
 
 <br />![Screenshot (105)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/a80c85c3-2dd0-4382-84f7-74700ac8c035)
 <br />
-<br />
- 
 
 <br />![Screenshot (106)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/823dfadd-3b1c-49b2-8d8f-b6fd8ca949e4)
 <br />
-<br />
 
 <br />![Screenshot (107)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/e75336db-a891-432b-bc3f-adc72327d4c9)
-<br />
 <br />
 
 <br />![Screenshot (108)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/d508397b-17c9-4f22-aad9-33a973da543f)
