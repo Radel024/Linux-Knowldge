@@ -30,34 +30,26 @@ administering users and groups, comprehending IP configurations, to monitoring s
 
 <br />![Screenshot (108)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/d508397b-17c9-4f22-aad9-33a973da543f)
 <br />
-<br />
 
 <br />![Screenshot (109)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/32a81550-dd42-4451-809d-2a237e23fdb4)
-<br />
 <br />
 
 <br />![Screenshot (110)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/762199ad-7ec8-4965-a9cd-f221d038c782)
 <br />
-<br />
 
 <br />![Screenshot (111)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/700b2166-2fb5-4c12-841f-14d51d7f402d)
-<br />
 <br />
 
 <br />![Screenshot (112)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/98e264bd-897e-4b44-a0d4-1f9cd2372daa)
 <br />
-<br />
 
 <br />![Screenshot (113)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/edc3f70d-441b-49c7-b916-eef34d7927f7)
-<br />
 <br />
 
 <br />![Screenshot (114)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/7e8beb2e-d5e6-418c-9f5f-113843f183dd)
 <br />
-<br />
 
 <br />![Screenshot (115)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/472001ea-8b1c-4c98-9e07-cebcdaa49343)
-<br />
 <br />
 
 <br />![Screenshot (116)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/e7e6d9a6-ed73-415c-94cf-47649f998757)
@@ -66,18 +58,14 @@ administering users and groups, comprehending IP configurations, to monitoring s
 
 <br />![Screenshot (117)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/68191204-6bd5-4afa-9f42-7fba9a515c11)
 <br />
-<br />
 
 <br />![Screenshot (118)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/e9164555-9b8d-4384-a8f0-67b249954855)
-<br />
 <br />
 
 <br />![Screenshot (119)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/cf1570bc-719e-447d-8f31-15c94bfd9169)
 <br />
-<br />
 
 <br />![Screenshot (120)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/e62690ad-5143-4e6b-ba78-c031f79f5476)
-<br />
 <br />
 
 <br />![Screenshot (121)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/1e812cec-7cc4-4861-b738-86b3ba00ad56)
@@ -86,10 +74,8 @@ administering users and groups, comprehending IP configurations, to monitoring s
 
 <br />![Screenshot (122)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/af2f0dd1-83ee-4f5d-94dd-afd2aaa1a522)
 <br />
-<br />
 
 <br />![Screenshot (123)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/8b031776-6d34-47e5-ba61-318e4a302410)
-<br />
 <br />
 
 <br />![Screenshot (124)](https://github.com/Radel024/Linux-Knowldge/assets/137848295/838a800e-55b9-469b-a10d-1d5ac17c01cb)
