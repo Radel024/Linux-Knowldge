@@ -14,7 +14,7 @@ administering users and groups, comprehending IP configurations, to monitoring s
 
 
 <h2>Environments Used </h2>
-- <b>Infoseclearning.com(VM Lab)/<b>
+- <b>Infoseclearning.com(VM Lab)</b>b>
 - <b></b>Unbuntu</b>
 
 
